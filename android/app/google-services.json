@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915122604830",
+    "project_id": "orderlink-de577",
+    "storage_bucket": "orderlink-de577.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915122604830:android:38087b0704bac18b7b570f",
+        "android_client_info": {
+          "package_name": "com.example.order_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wcLFlb224NCIPF1reXmFxRhfmmAlRj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
